@@ -1,0 +1,23 @@
+sudo rm -rf LCD-show 
+
+git clone https://github.com/waveshare/LCD-show 
+
+chmod -R 755 LCD-show 
+
+cd LCD-show/
+
+sudo ./LCD35B-show
+
+
+---------------------------------------
+
+
+chmod -R 755 LCD-show 
+
+cd LCD-show/ 
+
+sudo ./LCD-hdmi
+
+-----------------------------------------
+
+configure in boot/config.txt

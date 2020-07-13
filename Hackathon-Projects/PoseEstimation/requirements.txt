@@ -1,0 +1,2 @@
+CUDA 10.0
+Tensorflow 1.13.1
