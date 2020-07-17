@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Here I will post all ML problems I have done in Jupyter Notebook
+Here are all my projects related to Machine Learning, Deep Learning, Kaggle Competitions etc.
